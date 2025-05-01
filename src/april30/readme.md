@@ -120,9 +120,10 @@ index.html  - Name of the file
 :q - exit, if you did not save it, it wont let you exit 
 :q! - exit without save 
 
-
-
-ls - to list all the files    , -l , -al, -lrt
+ls - to list all the files    , 
+-l ,   -   long list 
+-al,   -  hidden files 
+-l r t   -  reverse sorted order
 
 touch file_name --- to create a file 
 vi file_name --- to open the file in editor 
