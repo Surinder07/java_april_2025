@@ -78,7 +78,15 @@ what is compile time vs runtime ?
     
      */
 
+HOME take assignment 
 
+
+given 3 numbers
+x = 10
+y = 15
+z 12
+
+check the greatest of all..
 
 
 
