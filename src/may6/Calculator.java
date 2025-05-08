@@ -37,7 +37,6 @@ public class Calculator {
         else if(option == 4){
             // division
             System.out.println("option 4");
-
         }
         else {
             System.exit(0);
