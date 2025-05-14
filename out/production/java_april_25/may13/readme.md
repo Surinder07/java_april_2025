@@ -66,3 +66,43 @@ state, behaviour, identity
 
 
 
+## Excercise 
+
+create a class Animal
+1. color
+2. weight
+3. height
+
+behvaiour - methods
+eat, sleep , run, walk
+
+public void eat(){
+}
+
+-- AnimalMain 
+create 2 objects of Animal class 
+Animal dog = new Animal();
+dog.color = "black";
+
+
+## Constructor 
+
+special kind of method 
+which is used to initialize the object 
+
+1. same name as class name 
+2. it does not have a return type , not even void 
+3. default constructor and parameterized Constructor 
+
+Student{
+
+  Student(){
+}
+
+}
+
+
+
+if a class does not have a constructor 
+Java provides a default constructor 
+

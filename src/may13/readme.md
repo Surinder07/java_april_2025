@@ -83,3 +83,32 @@ public void eat(){
 create 2 objects of Animal class 
 Animal dog = new Animal();
 dog.color = "black";
+
+
+## Constructor 
+
+special kind of method 
+which is used to initialize the object 
+
+1. same name as class name 
+2. it does not have a return type , not even void 
+3. default constructor and parameterized Constructor 
+
+Student{
+
+  Student(){
+}
+
+}
+
+
+
+if a class does not have a constructor 
+Java provides a default constructor 
+
+if there is a parameterized constructor and we did not create a default construc tor 
+then Java will not provide any default constructor 
+
+// this 
+it refers to the current class variables
+
