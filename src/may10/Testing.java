@@ -5,7 +5,7 @@ import may10.part2.Calculator;
 public class Testing {
     public static void main(String[] args) {
 
-        Calculator.sum();
+       // Calculator.sum();
 
         for (int i = 0; i <= 100 ; i++) {
             // break - it will break the loop and exit out of loop

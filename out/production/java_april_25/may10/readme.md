@@ -29,3 +29,20 @@ if(){
 
 Factorial of a given number 
 5 * 4 * 3 * 2 * 1 
+
+
+## Method 
+Methods can be called two ways 
+1. create an object of the class and call the method
+2. Make the method static and call the method with the name of the class 
+
+Calculator.sum(); // this is outside of the class 
+if its within the same class 
+then you dont need to use the class name 
+
+
+
+
+
+
+
