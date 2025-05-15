@@ -39,11 +39,11 @@ from any directory
 mydir]$ rm /home/ec2-user/mydir/*
 
 
+dir1 -> dir2 -> dir3
 
-
-
-
-
+create a directory 
+1. Java --> Src   ---> may14 ---> Test.java
+2. delete in order 
 
 
 
