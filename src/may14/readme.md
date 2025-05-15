@@ -46,5 +46,47 @@ create a directory
 2. delete in order 
 
 
+cd - change directory 
+pwd - present working directory 
+cd .. - go back to previous directory 
+
+
+## File permissions
+rw-  Owner permisssion
+r-- Group permission 
+r-- Other permission
+
+r - read 
+w - write 
+x - execute 
+
+permssions [0-7]
+0 - no permission 
+1 - execute 
+2 - write
+3 - write and execute 
+4 - read permission 
+5 - read and execute 
+6 - read and write 
+7 - all permssion [rwx]
+
+chmod 444 filename - read permissions to all 
+
+
+dir     filename
+java - Test.java 
+change the permission of the owner to rwx, 
+group - rw
+other - r 
+
+owner   - w
+group   - rx
+other   - rwx
+
+
+
+
+
+
 
 
