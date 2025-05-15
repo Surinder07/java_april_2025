@@ -70,18 +70,56 @@ permssions [0-7]
 6 - read and write 
 7 - all permssion [rwx]
 
-chmod 444 filename - read permissions to all 
-
-
+# chmod 444 filename - read permissions to all
 dir     filename
 java - Test.java 
 change the permission of the owner to rwx, 
 group - rw
 other - r 
 
+## 
 owner   - w
 group   - rx
 other   - rwx
+
+
+## grep 
+
+grep The filename
+
+-v
+-n
+-i
+
+## sort 
+
+
+## Shell Scripting
+
+1. create a file with .sh extension
+   myfile.sh
+
+2. and change the permission to execute only
+   chmod 777 myfile.sh
+./myfile.sh ======> to run the file
+
+## first example :
+
+add echo "Hello World!"
+
+## second example
+#!/bin/bash
+
+my_variable = "Hello World"
+echo "$my_variable"
+
+
+
+
+
+
+
+
 
 
 
