@@ -58,6 +58,36 @@ size is fixed
 int[] arr = {10,20,30,}
 
 
+Problem 1: 
+
+1. given array 
+arr = 12,23,543,23,45,10001,23,1243,43,23
+
+find this maximum element from the array 
+find the minimum element from the array 
+
+
+0   1    2   3   4
+12, 23, 543, 23, 45,
+
+int largest = arr[2]; // largest = 543
+543 > 23
+
+largest  > 45 
+
+print out largest 
+
+
+
+
+
+
+arr = 10  20  30  40  50
+
+reverse this array 
+
+50, 40, 30, 20, 10 
+
 
 
 
