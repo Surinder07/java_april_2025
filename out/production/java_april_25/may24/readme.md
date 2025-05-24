@@ -89,10 +89,13 @@ reverse this array
 50, 40, 30, 20, 10 
 
 
+## Types of arrays
+single dimension 
+multi dimension 
+2d array 
 
-
-
-
+int[] arr = new int[];
+arr - refere -------new int[]
 
 
 

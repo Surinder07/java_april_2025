@@ -17,9 +17,10 @@ public class Calculator {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the option : ");
-        int option = scanner.nextInt();
+       // int option = scanner.nextInt();
+        char option = scanner.next().charAt(0);
 
-        if(option == 1 ){
+        if(option == 'A' ){
             int x = 10;
             int y = 20;
             int sum = x + y;
