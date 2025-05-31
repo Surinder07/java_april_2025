@@ -12,8 +12,8 @@ public class Main {
 }
 /*
 
-Vehicle
-|
+    Vehicle - brand, seatingCapacity  , accelerate(), stop(), brake()
+    |     |
 Car       Bike
 |           |
 Honda     Suzuki

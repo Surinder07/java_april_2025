@@ -109,6 +109,32 @@ class
 
 
 
+## IS - A relationship
+## Has - A relationship 
+
+
+Laptop is a Computer 
+Dog is an Animal 
+
+Car is a Vehicle 
+
+Laptop is a keyboard
+
+Laptop has a keyboard 
+
+Car is a seat 
+Car has a seat 
+
+Laptop has a screen 
+
+
+
+
+
+
+
+
+
 
 
 
