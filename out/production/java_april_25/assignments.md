@@ -30,3 +30,8 @@ Methods:
 void deposit(double amount): Adds money to the account.
 void withdraw(double amount): Subtracts money if sufficient balance exists.
 void displayAccountInfo(): Displays account holder name, number, and balance.
+
+
+
+
+## Strings and Arrays 
