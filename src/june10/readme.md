@@ -52,6 +52,33 @@ SavingsAccount              ChequingAccount      HighInterestSavingAccount
 print the balance 
 
 
+## interface
+what is an interface? 
+
+100 % abtraction 
+
+its a contract which a class has to implement if its inheriting from a class 
+
+   A  [interface]
+   |
+   B 
+ 
+
+
+## final
+variable - it becomes contant 
+
+final int x = 10;
+x = 12;  // this will be wrong
+
+
+
+class as final 
+
+cannot be inherited 
+
+method as final 
+cannot be overriden 
 
 
 
@@ -68,6 +95,4 @@ print the balance
 
 
 
-
-2. interface 
 
