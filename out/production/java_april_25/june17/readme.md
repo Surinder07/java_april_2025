@@ -66,6 +66,33 @@ public void test() throws IOException {
 
 
 
+## Problem 
+
+Driving, 
+ask user to enter their age, 
+if age is less than 18 , 
+throw invalidAgeException 
+
+voting - invalidException less than 18
+
+ // throw vs throws vs throwable 
+
+
+## Collections 
+
+Data structures 
+
+collection : to manage/ manipulate large set of objects 
+
+                        Iterable    
+                          |
+                        Collection
+    |                       |                   |
+   Set                      List              Queue          Map
+
+
+
+
 
 
 

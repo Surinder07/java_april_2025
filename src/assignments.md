@@ -82,12 +82,7 @@ ava Assignments based on Arrays and String
 
 
 
-
-
-
-
 ## Assignment 3
-
 Assignment: University Management System (Enhanced Version)
 Objective:
 Develop a University Management System in Java that uses static, final, this, super, inheritance, and polymorphism to manage and display information about students, professors, and university departments.
@@ -163,3 +158,37 @@ Guidelines:
 1. Use comments to explain how static, final, this, super, inheritance, and polymorphism are used in your code.
 2. Ensure the code is modular and adheres to OOP principles.
 3. Use appropriate access modifiers (e.g., private, protected, public).
+
+
+
+
+## June 17 : Exceptions
+
+Create a menu
+Suppose you have balance 100,
+given menu items in Grocery,
+User should be able to enter the item with code A, B etc
+if it is valid item, it will added to the total.
+A  - 19.99
+B  - 20.99
+C  - 15.99
+D  - 30.99
+E  - 40.99
+
+if total bill exceeds above 100.0, throw insufficientBalanceException
+also, cancel the item as well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

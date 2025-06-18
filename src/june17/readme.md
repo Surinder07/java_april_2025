@@ -75,26 +75,20 @@ throw invalidAgeException
 
 voting - invalidException less than 18
 
+ // throw vs throws vs throwable 
 
 
+## Collections 
 
+Data structures 
 
+collection : to manage/ manipulate large set of objects 
 
-
-
-Create a menu 
-
-Balance == 100
-
-
-
-
-
-
-
-
-
-
+                        Iterable    
+                          |
+                        Collection
+    |                       |                   |
+   Set                      List              Queue          Map
 
 
 
