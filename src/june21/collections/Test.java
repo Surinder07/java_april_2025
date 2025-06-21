@@ -3,6 +3,7 @@ package june21.collections;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.lang.System;
 
 public class Test {
     public static void main(String[] args) {
@@ -38,6 +39,7 @@ public class Test {
 
 
 
+
 //        List<String> names = new ArrayList<>();
 //        names.add("Edward");
 //        names.add("Dharmik");
@@ -45,7 +47,6 @@ public class Test {
 //        names.add("Sunny");
 //        names.add("Utsav");
 //        System.out.println(names);
-
 
     }
 }

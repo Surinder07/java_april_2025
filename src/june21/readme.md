@@ -59,6 +59,39 @@ type safety   - compromised   ,
 String -
 
 
+## Packages 
+
+user defined packages 
+
+
+built-in packages
+Lang
+util 
+io
+
+
+
+Immutable 
+int
+
+# Wrapper 
+Integer 
+Float 
+Double 
+
+
+## How to make a class as immutable class 
+final 
+private 
+
+
+
+
+
+
+
+
+
 
 
 

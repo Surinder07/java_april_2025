@@ -37,19 +37,20 @@ n + n/2 + 1
 2. Doubly LinkedList 
 
 
-
-
-
-
-
-
-
-
-
 Arraylist - 1M 
 LinkedList - 1M 
 
 
+
+
+
+
+
+
+Maven 
+Lombok 
+Immutable class 
+Annoymous Inner class
 
 
 
