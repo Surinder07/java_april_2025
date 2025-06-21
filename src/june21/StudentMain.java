@@ -5,7 +5,7 @@ public class StudentMain {
         Student<Integer, String> student1 = new Student<>(100,"Edward");
         System.out.println(student1);
 
-        Student<String, String> student2 = new Student<>("100","Edward");
+        Student<Double, Integer> student2 = new Student<>(100.12,12);
         System.out.println(student2);
     }
 }
