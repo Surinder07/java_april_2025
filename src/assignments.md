@@ -180,6 +180,20 @@ also, cancel the item as well.
 
 
 
+## HOW to SUBMIT 
+
+main branch 
+create a branch with assignment label 
+git branch assignment-1
+
+create a pull request to be merged into main branch 
+
+
+
+
+
+
+
 
 
 

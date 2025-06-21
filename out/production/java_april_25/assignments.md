@@ -82,10 +82,6 @@ ava Assignments based on Arrays and String
 
 
 
-
-
-
-
 ## Assignment 3
 Assignment: University Management System (Enhanced Version)
 Objective:
@@ -181,6 +177,20 @@ E  - 40.99
 
 if total bill exceeds above 100.0, throw insufficientBalanceException
 also, cancel the item as well.
+
+
+
+## HOW to SUBMIT 
+
+main branch 
+create a branch with assignment label 
+git branch assignment-1
+
+create a pull request to be merged into main branch 
+
+
+
+
 
 
 
