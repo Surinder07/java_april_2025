@@ -29,6 +29,19 @@ public class EmployeeListDemo {
 
         System.out.println(list);
 
+        Employee max = list.get(0);
+        /*
+            for (int i = 0; i <list.size() ; i++) {
+            System.out.println(list.get(i));
+        }
+        for(){
+               list.get(i).getSalary()  > max {
+                max = list.get(i).getSalary();
+               }
+        }
+
+         */
+
         //list.get(1).getSalary()
 
 
